@@ -9,7 +9,7 @@ export default [
     content: [
   "./index.html",
   "./src/**/*.{js,ts,jsx,tsx}",
-],
+], 
     languageOptions: {
       ecmaVersion: 2020,
       globals: globals.browser,
